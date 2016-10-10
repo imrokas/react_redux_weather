@@ -1,5 +1,5 @@
 {
-  "name": "react redux weather app",
+  "name": "react_redux_weather",
   "version": "1.0.0",
   "description": "Simple react redux weather app",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "test:watch": "npm run test -- --watch"
   },
   "author": "imrokas",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
